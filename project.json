@@ -1,0 +1,6 @@
+{
+    "name": "RTO test 02",
+    "short_name": "rtotest2",
+    "description": "Same as test 1 but with task presenter as local project",
+    "question": "Do you see cancer cells in this image?"
+}
